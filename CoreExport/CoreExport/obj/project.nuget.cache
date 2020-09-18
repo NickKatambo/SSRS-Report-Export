@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSoARcsQ2r3RJ6GD+/4yeEXS04aAS/Ga+mzZmwDuB3Ci8u1xXHlDEiPfmzRQNFIMNh9CZF+vwcywLelFeHxHvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files\\Learning\\Csharp\\SSRS-Report-Export\\CoreExport\\CoreExport\\CoreExport.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ykatambo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ykatambo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
